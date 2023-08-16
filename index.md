@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Guru
 ---
 
+Aaradhya is a lazy fuck 😠
